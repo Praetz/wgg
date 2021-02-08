@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "dbaeumer.vscode-eslint",
+        "ms-toolsai.jupyter",
+        "xabikos.javascriptsnippets",
+        "christian-kohler.npm-intellisense",
+        "davidanson.vscode-markdownlint",
+       
+    ]
+}
