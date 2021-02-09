@@ -4,7 +4,7 @@
         "ms-toolsai.jupyter",
         "xabikos.javascriptsnippets",
         "christian-kohler.npm-intellisense",
-        "davidanson.vscode-markdownlint",
+        "davidanson.vscode-markdownlint"
        
     ]
 }
