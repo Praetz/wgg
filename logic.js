@@ -125,23 +125,6 @@ function roundComplete() {
    } 
   }
 
-
-
-
-// // populate blanks and successes
-// for (var i=0; i<numBlanks; i++) {
-//   blanksAndSuccesses.push("  ");
-// }
-
-
-
-// // change html to reflect round conditions
-
-// document.getElementById("guesses-left").innerHTML = guessesLeft;
-// document.getElementById("win-counter").innerHTML = winCounter;
-// document.getElementById("loss-counter").innerHTML = lossCounter;
-
-
 // Main
 // -------------------------------------------------
 // starts code
