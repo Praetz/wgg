@@ -49,17 +49,7 @@ function startGame () {
   document.getElementById("win-counter").innerHTML = winCounter;
     document.getElementById("loss-counter").innerHTML = lossCounter;
   
-
-
-  console.log(nameOptions);
-  console.log(selectedName);
-  console.log(charactersInName);
-  console.log(blanksAndSuccesses);
-  console.log(numBlanks);
-  
 }
-
-
 
 function checkLetters(letter) {
 
