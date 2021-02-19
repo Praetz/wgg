@@ -145,7 +145,7 @@ document.onkeyup = function (event) {
   // Runs the code after each round is done.
   roundComplete();
 };
-  // CHECK IF KEY PRESS IS A LETTER
+ 
   
   
  
