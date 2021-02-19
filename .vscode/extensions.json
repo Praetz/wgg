@@ -4,7 +4,8 @@
         "ms-toolsai.jupyter",
         "xabikos.javascriptsnippets",
         "christian-kohler.npm-intellisense",
-        "davidanson.vscode-markdownlint"
-       
+        "davidanson.vscode-markdownlint",
+        "miguelsolorio.fluent-icons",
+        "peakchen90.open-html-in-browser"
     ]
 }
