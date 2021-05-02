@@ -4,7 +4,7 @@
 
 // --------------------------------------------------
 // arrays and variable in lower case
-var nameOptions = ["michael", "jp", "sheila", "mark", "nikole"];
+var nameOptions = [ "michael", "jp", "sheila", "mark", "nikole" ];
 var selectedName = "";
 var charactersInName = [];
 var numBlanks = 0;
@@ -40,7 +40,7 @@ function startGame () {
   
   // Print the initial blanks in console.
     console.log(blanksAndSuccesses);
-
+    
   // Reprints the guessesLeft to 9
   document.getElementById("guesses-left").innerHTML = guessesLeft;
   
