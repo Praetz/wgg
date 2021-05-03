@@ -68,7 +68,7 @@ function checkLetters(letter) {
       }
     }
 } else {
-    wrongGuesses.push(letter)
+    wrongGuesses.push(letter);
     guessesLeft--;
   }
   console.log(blanksAndSuccesses);
@@ -79,7 +79,7 @@ function checkLetters(letter) {
 
 function roundComplete() {
     // First, log an initial status update in the console telling us how many wins, losses, and guesses are left.
-       console.log("Wins: " + winCounter + " | Losses: " + lossCounter + " | guessesleft: " + guessesLeft)
+       console.log("Wins: " + winCounter + " | Losses: " + lossCounter + " | guessesleft: " + guessesLeft);
     
        // Update the HTML to reflect the new number of guesses. Also update the correct guesses.
   document.getElementById("word-blanks").innerHTML = blanksAndSuccesses.join("  ");
