@@ -92,7 +92,7 @@ function roundComplete() {
    if(charactersInName.toLocaleString() === blanksAndSuccesses.toLocaleString()) {
      // If we have gotten all the letters to match the solution...
      // ..add to the win counter & give the user an alert.
-     winCounter+
+     winCounter++;
      alert("you win");
      // Update the win counter in the HTML & restart the game.
      document.getElementById("win-counter").innerHTML = winCounter;
